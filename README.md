@@ -1,4 +1,4 @@
-🎓 Alumni Management System
+#🎓 Alumni Management System
 📌 Project Overview
 
 The Alumni Management System (AMS) is a web-based application designed to manage and strengthen the relationship between an institution and its alumni.
@@ -6,7 +6,7 @@ It allows alumni to stay connected with their university, share professional inf
 
 This project is developed as part of a Software Engineering academic project.
 
-🎯 Objectives
+#🎯 Objectives
 
 Maintain a centralized alumni database
 
@@ -16,8 +16,8 @@ Provide a platform for alumni networking and engagement
 
 Simplify alumni data management for administrators
 
-👥 User Roles
-1. Admin
+#👥 User Roles
+#1. Admin
 
 Manage alumni records (add, update, delete)
 
@@ -29,7 +29,7 @@ Post announcements and notices
 
 View alumni statistics and reports
 
-2. Alumni
+#2. Alumni
 
 Register and log in
 
@@ -41,7 +41,7 @@ Connect with other alumni
 
 Participate in alumni activities
 
-⚙️ Key Features
+#⚙️ Key Features
 
 Secure authentication and authorization
 
